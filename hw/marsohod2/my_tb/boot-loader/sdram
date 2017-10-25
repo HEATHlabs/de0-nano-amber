@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.48 (w)1999-2013 BSI
+[*] Mon Dec 01 19:47:48 2014
+[*]
+[dumpfile] "C:\tmp\Amber-Marsohod2-master\hw\marsohod2\my_tb\boot-loader\out.vcd"
+[dumpfile_mtime] "Mon Dec 01 17:29:02 2014"
+[dumpfile_size] 4621921073
+[savefile] "C:\tmp\Amber-Marsohod2-master\hw\marsohod2\my_tb\boot-loader\sdram"
+[timestart] 9677118940
+[size] 1136 744
+[pos] -1 -1
+*-14.000000 9677145720 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.u_system.
+[treeopen] tb.u_system.u_sdram.
+[sst_width] 197
+[signals_width] 110
+[sst_expanded] 1
+[sst_vpaned_height] 204
+@22
+tb.u_system.u_sdram.sdram_ctrl.state[3:0]
+tb.u_system.u_sdram.sdram_ctrl.cmd[4:0]
+@28
+tb.u_system.u_sdram.sdram_ctrl.a10
+@22
+tb.u_system.u_sdram.sdram_ctrl.a[12:0]
+@28
+tb.u_system.u_sdram.sdram_ctrl.ba[1:0]
+tb.u_system.u_sdram.sdram_ctrl.cas_o
+tb.u_system.u_sdram.sdram_ctrl.ras_o
+tb.u_system.u_sdram.sdram_ctrl.cke_o
+tb.u_system.u_sdram.sdram_ctrl.cs_n_o
+tb.u_system.u_sdram.sdram_ctrl.we_o
+tb.u_system.u_sdram.sdram_ctrl.sdram_clk
+tb.u_system.u_sdram.wb_clk
+tb.u_system.u_sdram.sdram_ctrl.we_i
+tb.u_system.u_sdram.sdram_ctrl.sdram_rst
+[pattern_trace] 1
+[pattern_trace] 0

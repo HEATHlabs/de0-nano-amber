@@ -1,0 +1,5 @@
+SET PATH=%PATH%;c:\tmp\iverilog\bin;D:\progs\iverilog\bin
+
+REM iverilog -o qqq -g2005 -DSDRAM=1 -DICARUS=1 -DAMBER_A23_CORE=1 -DNOMEMORY=1 -DAMBER_UART_BAUD=921600 -csrclist_sdr -I../../../vlog/sdram/wb_sdram_ctrl -I../../../vlog/system/ -I../../../vlog/amber23/ -I../../../vlog/tb/
+
+iverilog -o qqq -g2005 -DSDRAM=1 -DICARUS=1 -DAMBER_A23_CORE=1 -DNOMEMORY=1 -csrclist_sdr -I../../../vlog/sdram/wb_sdram_ctrl -I../../../vlog/system/ -I../../../vlog/amber23/ -I../../../vlog/tb/

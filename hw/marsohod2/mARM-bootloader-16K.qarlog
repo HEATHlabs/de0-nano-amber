@@ -1,0 +1,91 @@
+Quartus II Archive log --	C:/tmp/Amber-Marsohod2-master/hw/marsohod2/mARM-bootloader-16K.qarlog
+
+Archive:	C:/tmp/Amber-Marsohod2-master/hw/marsohod2/mARM-bootloader-16K.qar
+Date:		Mon Dec 08 09:30:05 2014
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/db/msystem.cmp.rdb
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/incremental_db/compiled_partitions/msystem.db_info
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/internal_mem-test.stp
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/internal_mem-uartt.stp
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/internal_mem.stp
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/mARM.qpf
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/msystem.out.sdc
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/msystem.qsf
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/msystem.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/msystem_assignment_defaults.qdf
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/my_clocks_resets.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/my_pll.ppf
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/my_pll.qip
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/my_pll.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/my_pll_bb.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/boot-loader-nosdram.mif
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/my_sram_2048_32_byte_en.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/my_sram_256_128_byte_en.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/my_sram_256_21_line_en.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/sram_2048_32_byte_en.qip
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/sram_2048_32_byte_en.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/sram_2048_32_byte_en_bb.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_128_byte_en.qip
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_128_byte_en.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_128_byte_en_bb.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_21_line_en.qip
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_21_line_en.v
+C:/tmp/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_21_line_en_bb.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_alu.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_barrel_shift.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_cache.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_config_defines.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_coprocessor.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_core.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_decode.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_execute.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_fetch.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_functions.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_localparams.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_multiply.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_register_bank.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/amber23/a23_wishbone.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/lib/generic_iobuf.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/lib/generic_sram_byte_en.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/lib/generic_sram_line_en.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/core/sdrc_define.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/core/stp-mem.stp
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/core/stp-mem_auto_stripped.stp
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/core/stp-uart.stp
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/core/stp1.stp
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/lib/async_fifo.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/lib/sync_fifo.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/top/sdrc_top.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/wb2sdrc/wb2sdrc.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/wb_sdram_ctrl/arbiter.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/wb_sdram_ctrl/bufram.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/wb_sdram_ctrl/dpram_altera.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/wb_sdram_ctrl/dpram_generic.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/wb_sdram_ctrl/dual_clock_fifo.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/wb_sdram_ctrl/sdram_ctrl.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/wb_sdram_ctrl/wb_port.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/wb_sdram_ctrl/wb_sdram_ctrl.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/sdram/yadmc/sim/mt48lc16m16a2.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/afifo.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/boot_mem128.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/boot_mem32.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/ddr3_afifo.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/ethmac_wb.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/interrupt_controller.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/memory_configuration.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/register_addresses.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/system_config_defines.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/system_functions.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/test_module.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/timer_module.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/uart.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/system/wishbone_arbiter.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/tb/debug_functions.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/tb/dumpvcd.v
+C:/tmp/Amber-Marsohod2-master/hw/vlog/tb/global_defines.v
+	======= Total: 80 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

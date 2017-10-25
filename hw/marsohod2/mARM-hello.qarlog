@@ -1,0 +1,91 @@
+Quartus II Archive log --	Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/mARM-hello.qarlog
+
+Archive:	Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/mARM-hello.qar
+Date:		Wed Aug 27 21:24:50 2014
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/db/msystem.cmp.rdb
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/incremental_db/compiled_partitions/msystem.db_info
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/internal_mem-test.stp
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/internal_mem-uartt.stp
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/internal_mem-uartt_auto_stripped.stp
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/internal_mem.stp
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/mARM.qpf
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/msystem.qsf
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/msystem.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/msystem_assignment_defaults.qdf
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/my_clocks_resets.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/my_pll.ppf
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/my_pll.qip
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/my_pll.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/my_pll_bb.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/hello-world.mif
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/my_sram_2048_32_byte_en.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/my_sram_256_128_byte_en.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/my_sram_256_21_line_en.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/sram_2048_32_byte_en.qip
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/sram_2048_32_byte_en.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/sram_2048_32_byte_en_bb.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_128_byte_en.qip
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_128_byte_en.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_128_byte_en_bb.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_21_line_en.qip
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_21_line_en.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/sram/sram_256_21_line_en_bb.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_alu.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_barrel_shift.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_cache.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_config_defines.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_coprocessor.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_core.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_decode.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_execute.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_fetch.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_functions.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_localparams.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_multiply.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_register_bank.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/amber23/a23_wishbone.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/lib/generic_iobuf.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/lib/generic_sram_byte_en.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/lib/generic_sram_line_en.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/core/sdrc_define.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/lib/async_fifo.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/lib/sync_fifo.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/top/sdrc_top.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/sdram/sdr_ctrl/trunk/rtl/wb2sdrc/wb2sdrc.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/sdram/yadmc/sim/mt48lc16m16a2.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/afifo.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/boot_mem128.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/boot_mem32.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/ddr3_afifo.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/ethmac_wb.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/interrupt_controller.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/memory_configuration.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/register_addresses.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/system_config_defines.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/system_functions.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/test_module.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/timer_module.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/uart.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/system/wishbone_arbiter.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/tb/debug_functions.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/tb/dumpvcd.v
+Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/vlog/tb/global_defines.v
+	======= Total: 68 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Sep 21 18:50:21 2014
+Source archive file:	Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/mARM-hello.qar
+Archive was extracted into	Q:/Documents/fpga/de0nano/mARM-hello/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Sun Sep 21 21:54:01 2014
+Source archive file:	Q:/Documents/fpga/de0nano/Amber-Marsohod2-master/hw/marsohod2/mARM-hello.qar
+Archive was extracted into	Q:/Documents/fpga/de0nano/mARM-hello/
+		 - successfully.

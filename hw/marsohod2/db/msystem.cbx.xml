@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="msystem">
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|sld_signaltap:auto_signaltap_0|sld_signaltap_impl:sld_signaltap_body|sld_signaltap_implb:sld_signaltap_body|altdpram:\stp_non_zero_ram_gen:attribute_mem_gen:attribute_mem|lpm_decode:wdecoder" CBX_FILE_NAME="decode_dvf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|sld_signaltap:auto_signaltap_0|sld_signaltap_impl:sld_signaltap_body|sld_signaltap_implb:sld_signaltap_body|sld_offload_buffer_mgr:\stp_non_zero_depth_offload_gen:stp_offload_buff_mgr_inst|LPM_COUNTER:status_read_pointer_counter" CBX_FILE_NAME="cntr_23j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|a23_core:u_amber|a23_fetch:u_fetch|a23_cache:u_cache|my_sram_256_128_byte_en:rams[3].u_data|sram_256_128_byte_en:sram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_t5d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|a23_core:u_amber|a23_fetch:u_fetch|a23_cache:u_cache|my_sram_256_21_line_en:rams[1].u_tag|sram_256_21_line_en:sram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_41b1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|sld_signaltap:auto_signaltap_0|sld_signaltap_impl:sld_signaltap_body|sld_signaltap_implb:sld_signaltap_body|sld_offload_buffer_mgr:\stp_non_zero_depth_offload_gen:stp_offload_buff_mgr_inst|LPM_COUNTER:read_pointer_counter" CBX_FILE_NAME="cntr_hbj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|wb_sdram_ctrl:u_sdram|arbiter:arbiter|wb_port:wbports[0].wb_port|bufram:bufram|dpram_altera:dpram_altera.dpram_altera|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_gpi2.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|a23_core:u_amber|a23_fetch:u_fetch|a23_cache:u_cache|my_sram_256_128_byte_en:rams[0].u_data|sram_256_128_byte_en:sram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_t5d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|a23_core:u_amber|a23_fetch:u_fetch|a23_cache:u_cache|my_sram_256_21_line_en:rams[2].u_tag|sram_256_21_line_en:sram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_41b1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|sld_signaltap:auto_signaltap_0|sld_signaltap_impl:sld_signaltap_body|sld_signaltap_implb:sld_signaltap_body|altsyncram:\stp_non_zero_ram_gen:stp_buffer_ram" CBX_FILE_NAME="altsyncram_0u14.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|sld_signaltap:auto_signaltap_0|sld_signaltap_impl:sld_signaltap_body|sld_signaltap_implb:sld_signaltap_body|sld_offload_buffer_mgr:\stp_non_zero_depth_offload_gen:stp_offload_buff_mgr_inst|LPM_COUNTER:status_advance_pointer_counter" CBX_FILE_NAME="cntr_igi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|a23_core:u_amber|a23_fetch:u_fetch|a23_cache:u_cache|my_sram_256_128_byte_en:rams[1].u_data|sram_256_128_byte_en:sram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_t5d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|a23_core:u_amber|a23_fetch:u_fetch|a23_cache:u_cache|my_sram_256_21_line_en:rams[3].u_tag|sram_256_21_line_en:sram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_41b1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|boot_mem32:boot_mem32.u_boot_mem|my_sram_2048_32_byte_en:u_mem|sram_2048_32_byte_en:sram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_aal1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|my_clocks_resets:u_clk_r|my_pll:my_pll_inst|altpll:altpll_component" CBX_FILE_NAME="my_pll_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|sld_signaltap:auto_signaltap_0|sld_signaltap_impl:sld_signaltap_body|sld_signaltap_implb:sld_signaltap_body|altdpram:\stp_non_zero_ram_gen:attribute_mem_gen:attribute_mem|lpm_mux:mux" CBX_FILE_NAME="mux_ssc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|sld_signaltap:auto_signaltap_0|sld_signaltap_impl:sld_signaltap_body|sld_signaltap_implb:sld_signaltap_body|sld_offload_buffer_mgr:\stp_non_zero_depth_offload_gen:stp_offload_buff_mgr_inst|LPM_COUNTER:\adv_point_3_and_more:advance_pointer_counter" CBX_FILE_NAME="cntr_qei.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|a23_core:u_amber|a23_fetch:u_fetch|a23_cache:u_cache|my_sram_256_128_byte_en:rams[2].u_data|sram_256_128_byte_en:sram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_t5d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|msystem|a23_core:u_amber|a23_fetch:u_fetch|a23_cache:u_cache|my_sram_256_21_line_en:rams[0].u_tag|sram_256_21_line_en:sram|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_41b1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

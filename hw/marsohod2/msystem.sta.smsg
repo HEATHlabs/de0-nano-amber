@@ -1,0 +1,1 @@
+Critical Warning (332012): Synopsys Design Constraints File file not found: 'msystem.sdc'. A Synopsys Design Constraints File is required by the TimeQuest Timing Analyzer to get proper timing constraints. Without it, the Compiler will not properly optimize the design.
